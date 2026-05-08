@@ -27,7 +27,7 @@
 
 **① "Continue with AWS IAM Identity Center" 클릭**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **② Start URL 입력**
 

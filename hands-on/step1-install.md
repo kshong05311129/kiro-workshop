@@ -29,7 +29,7 @@ Kiro 상단 메뉴에서:
 
 **File → Open Folder** → 방금 만든 `hotel-assistant` 폴더 선택
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. 신뢰 확인
 

@@ -60,7 +60,17 @@ Kiro가 "이런 기능들이 필요하군요"라고 정리합니다. 내용을 �
 
 **② Design (설계)**
 
-화면 구성과 데이터 흐름을 설계합니다. 확인 후 다음 단계로 진행합니다.
+화면 구성과 데이터 흐름을 설계합니다. 확인 후 다음 단계로 진행합니다.&#x20;
+
+"Contiune" 버튼을 클릭합니다.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
 
 \[스크린샷: Design 문서]
 
