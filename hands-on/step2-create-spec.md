@@ -62,23 +62,31 @@ Kiro가 "이런 기능들이 필요하군요"라고 정리합니다. 내용을 �
 
 화면 구성과 데이터 흐름을 설계합니다. 확인 후 다음 단계로 진행합니다.&#x20;
 
-"Contiune" 버튼을 클릭합니다.
+"Continue" 버튼을 클릭합니다.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
+아래와 같이 "Generate Design" 버튼을 클릭합니다.
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 
 
 
-\[스크린샷: Design 문서]
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 **③ Task List (작업 목록)**
 
 실행할 작업 목록이 생성됩니다. 이것이 AI가 실제로 수행할 "할 일 목록"입니다.
 
-\[스크린샷: Task List]
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ## 확인
 
