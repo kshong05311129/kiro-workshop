@@ -19,7 +19,7 @@
 * [Kiro IDE 인증](setup/authentication.md)
 * [인터페이스 둘러보기](setup/orientation.md)
 
-## 4부: 실습 - 호텔 고객 응대 도우미 만들기
+## 4부: 실습 트랙 A - 호텔 고객 응대 도우미
 
 * [Step 1: 설치 & 로그인](hands-on/step1-install.md)
 * [Step 2: Spec 만들기](hands-on/step2-create-spec.md)
@@ -29,6 +29,16 @@
 * [Step 6: Steering 문서 생성하기](hands-on/step6-steering.md)
 * [Step 7: Git으로 저장하기](hands-on/step7-git.md)
 * [Step 8: 나만의 기능 만들어보기](hands-on/step8-freestyle.md)
+
+## 4부: 실습 트랙 B - 데이터 분석 대시보드
+
+* [트랙 B 소개](track-b/README.md)
+* [Step 1: 프로젝트 설정](track-b/step1-setup.md)
+* [Step 2: Spec으로 대시보드 설계](track-b/step2-spec.md)
+* [Step 3: 태스크 실행 & 결과 확인](track-b/step3-run.md)
+* [Step 4: 고급 분석 기능 추가](track-b/step4-advanced.md)
+* [Step 5: Steering으로 규칙 설정](track-b/step5-steering.md)
+* [Step 6: 실무 확장 & 자유 실습](track-b/step6-extend.md)
 
 ## 5부: 실무 활용
 
