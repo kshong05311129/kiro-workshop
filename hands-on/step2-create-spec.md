@@ -52,7 +52,11 @@ Kiro가 순서대로 문서를 생성합니다:
 
 Kiro가 "이런 기능들이 필요하군요"라고 정리합니다. 내용을 읽어보고 괜찮으면 **"Move to design phase"** 를 클릭합니다.
 
-\[스크린샷: Requirements 문서]
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+
 
 **② Design (설계)**
 
