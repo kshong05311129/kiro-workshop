@@ -6,9 +6,13 @@
 
 ### 1. New Spec 클릭
 
-Kiro 패널(오른쪽)의 **Specs** 섹션에서 **+** 버튼을 클릭합니다.
+Kiro 패널(왼쪽)의 **Specs** 섹션에서 **+** 버튼을 클릭합니다.
 
-[스크린샷: Specs 섹션의 + 버튼]
+![](<../.gitbook/assets/image (3).png>)
+
+
+
+
 
 ### 2. 프롬프트 입력
 
@@ -34,6 +38,12 @@ Kiro 패널(오른쪽)의 **Specs** 섹션에서 **+** 버튼을 클릭합니다
 - 반응형 디자인
 ```
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+오른쪽 Chat 인터페이스에서 "Build a Feature" 를 선택 후, "Submit answer" 버튼을 클릭합니다.
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ### 3. 각 단계 검토
 
 Kiro가 순서대로 문서를 생성합니다:
@@ -42,22 +52,22 @@ Kiro가 순서대로 문서를 생성합니다:
 
 Kiro가 "이런 기능들이 필요하군요"라고 정리합니다. 내용을 읽어보고 괜찮으면 **"Move to design phase"** 를 클릭합니다.
 
-[스크린샷: Requirements 문서]
+\[스크린샷: Requirements 문서]
 
 **② Design (설계)**
 
 화면 구성과 데이터 흐름을 설계합니다. 확인 후 다음 단계로 진행합니다.
 
-[스크린샷: Design 문서]
+\[스크린샷: Design 문서]
 
 **③ Task List (작업 목록)**
 
 실행할 작업 목록이 생성됩니다. 이것이 AI가 실제로 수행할 "할 일 목록"입니다.
 
-[스크린샷: Task List]
+\[스크린샷: Task List]
 
 ## 확인
 
 ✅ `.kiro/specs/` 폴더 아래에 문서들이 생성되었으면 성공!
 
-> 💡 **핵심**: 각 단계에서 마음에 들지 않는 부분이 있으면 채팅으로 "~를 수정해줘"라고 요청할 수 있습니다. Spec은 언제든 수정 가능합니다.
+> 💡 **핵심**: 각 단계에서 마음에 들지 않는 부분이 있으면 채팅으로 "\~를 수정해줘"라고 요청할 수 있습니다. Spec은 언제든 수정 가능합니다.
