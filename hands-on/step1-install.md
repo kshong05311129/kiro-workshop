@@ -29,7 +29,7 @@ Kiro 상단 메뉴에서:
 
 **File → Open Folder** → 방금 만든 `hotel-assistant` 폴더 선택
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 5. 신뢰 확인
 
@@ -38,5 +38,7 @@ Kiro 상단 메뉴에서:
 ## 확인
 
 ✅ Kiro 왼쪽 사이드바에 `hotel-assistant` 폴더명이 보이면 성공!
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 > 💡 **팁**: 폴더를 Kiro 창으로 직접 드래그해도 됩니다.
