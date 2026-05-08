@@ -8,20 +8,20 @@
 
 설치한 Kiro를 더블클릭하여 실행합니다.
 
-[스크린샷: Kiro 아이콘]
+\[스크린샷: Kiro 아이콘]
 
 ### 2. 로그인
 
 Google, GitHub, 또는 AWS Builder ID로 로그인합니다.
 
-[스크린샷: 로그인 화면]
+\[스크린샷: 로그인 화면]
 
 ### 3. 프로젝트 폴더 생성
 
 바탕화면(또는 원하는 위치)에 새 폴더를 만듭니다:
 
-- **Mac**: Finder → 바탕화면 → 우클릭 → "새로운 폴더" → 이름: `hotel-assistant`
-- **Windows**: 바탕화면 → 우클릭 → "새 폴더" → 이름: `hotel-assistant`
+* **Mac**: Finder → 바탕화면 → 우클릭 → "새로운 폴더" → 이름: `hotel-assistant`
+* **Windows**: 바탕화면 → 우클릭 → "새 폴더" → 이름: `hotel-assistant`
 
 ### 4. Kiro에서 폴더 열기
 
@@ -29,7 +29,7 @@ Kiro 상단 메뉴에서:
 
 **File → Open Folder** → 방금 만든 `hotel-assistant` 폴더 선택
 
-[스크린샷: File → Open Folder]
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. 신뢰 확인
 
