@@ -17,13 +17,16 @@ Wi-Fi 연결이 안정적인지 확인해주세요.
 
 ### 3. 로그인 계정 준비
 
-아래 중 하나로 로그인할 수 있습니다 (미리 가입해두세요):
+아래 중 하나로 로그인할 수 있습니다:
 
 | 방법 | 설명 |
 |------|------|
-| **Google 계정** | Gmail 있으면 바로 사용 가능 ✅ 추천 |
+| **AWS IAM Identity Center** | 워크샵에서 제공하는 조직 계정으로 로그인 ✅ **이번 워크샵** |
+| **Google 계정** | Gmail 있으면 바로 사용 가능 |
 | **GitHub 계정** | [github.com](https://github.com)에서 가입 |
 | **AWS Builder ID** | [profile.aws.amazon.com](https://profile.aws.amazon.com)에서 가입 |
+
+> 💡 이번 워크샵에서는 **AWS IAM Identity Center** 방식을 사용합니다. Start URL과 리전 정보는 워크샵 당일 진행자가 안내합니다.
 
 ### 4. (선택) Git 설치 확인
 
